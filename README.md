@@ -1,4 +1,4 @@
-# LiveMap #
+# Halitrephes #
 
 A map combining static data plotted points with dynamic data pushed to a web page via websockets from a variety of devices, all channeled through a service bus and consumed then pushed by a server application
 
