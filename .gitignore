@@ -24,7 +24,6 @@ bld/
 **/[Bb]in/
 **/[Oo]bj/
 [Ll]og/
-Saubian.EmailPoller/Properties
 **.Development.json
 
 # Visual Studio 2015 cache/options directory
@@ -264,9 +263,3 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
-/src/Saubian.EmailPoller/Properties
-src/Test Endpoint Calls/.env
-/src/Saubian.SilverSickle/Properties
-/src/Saubian.TamOShanter/Properties
-
-/src/terminal_ui/target
