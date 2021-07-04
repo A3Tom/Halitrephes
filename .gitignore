@@ -266,3 +266,4 @@ __pycache__/
 src/frontend/package-lock.json
 .gitignore
 src/frontend/.eslintcache
+src/frontend/.env
