@@ -43,7 +43,7 @@ Ability to include IoT devices - this would take hings to the next fuckin level 
 ## Architecture ##
 ---
 
-<img src="resources\Architecture.svg">
+<img src="resources\architecture.svg">
 
 ---
 ## Credits : ##
