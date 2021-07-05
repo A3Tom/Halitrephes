@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Halitrephes.Api", "Halitrephes.Api\Halitrephes.Api.csproj", "{5B32A89A-9A01-46F6-BCD7-FE66104DE03E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Halitrephes.Domain", "Halitrephes.Domain\Halitrephes.Domain.csproj", "{B0772466-A012-4BDD-99A2-785D5595EF4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B32A89A-9A01-46F6-BCD7-FE66104DE03E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B32A89A-9A01-46F6-BCD7-FE66104DE03E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B32A89A-9A01-46F6-BCD7-FE66104DE03E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B32A89A-9A01-46F6-BCD7-FE66104DE03E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0772466-A012-4BDD-99A2-785D5595EF4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0772466-A012-4BDD-99A2-785D5595EF4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0772466-A012-4BDD-99A2-785D5595EF4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0772466-A012-4BDD-99A2-785D5595EF4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C3C3FDE-DAF1-45BE-83AC-086D7FD8ED03}
+	EndGlobalSection
+EndGlobal
