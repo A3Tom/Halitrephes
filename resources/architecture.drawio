@@ -1,6 +1,6 @@
 <mxfile>
     <diagram id="Bc_sV-d-3tgs0W5vVKO6" name="Page-1">
-        <mxGraphModel dx="1403" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+        <mxGraphModel dx="410" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -90,7 +90,7 @@
                     <mxGeometry x="54.299999999999955" y="94" width="33" height="44" as="geometry"/>
                 </mxCell>
                 <mxCell id="50" value="" style="shape=xor;whiteSpace=wrap;html=1;dashed=1;" parent="28" vertex="1">
-                    <mxGeometry x="170" y="48" width="60" height="80" as="geometry"/>
+                    <mxGeometry x="190" y="48" width="60" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.14;entryY=0.146;entryDx=0;entryDy=0;entryPerimeter=0;" parent="28" source="29" target="50" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -136,7 +136,7 @@
                     <mxGeometry x="50" y="139" width="40" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="19" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/iot/IoT_Hub.svg;" parent="58" vertex="1">
-                    <mxGeometry x="158" y="77" width="64" height="64" as="geometry"/>
+                    <mxGeometry x="190" y="77" width="64" height="64" as="geometry"/>
                 </mxCell>
                 <mxCell id="43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="58" source="41" target="19" edge="1">
                     <mxGeometry relative="1" as="geometry"/>

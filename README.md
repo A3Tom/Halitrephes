@@ -47,7 +47,7 @@ Ability to include IoT devices - this would take hings to the next fuckin level 
 
 ---
 ## Credits : ##
-As much as I would absolutely love to say "here mate am the best in the world at this shit", realistically this will - as per every project ever - be the product of a whole load of resource gathering n playdough-ing it into an angular project. As is the way.
+As much as I would absolutely love to say "here mate am the best in the world at this shit", realistically this will - as per every project ever - be the product of a whole load of resource gathering n playdough-ing it into this project. As is the way.
 
 This is a log of items watched or read which I've then implemented and bastardised for future reference.
 
