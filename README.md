@@ -60,8 +60,9 @@ return await creditList
 
 |Type|Author|Gist|Areas Covered|Link|
 |---|---|---|---|:---:|
-|Documentation|Microsoft|Chat application using Signal R, .Net5 & React|SignalR Integration|[Cheers Mate](https://www.youtube.com/watch?v=nEQvA5HfEDE)|
+|Documentation|Microsoft|SignalR for Noobs|SignalR Integration|[Cheers Mate](https://docs.microsoft.com/en-gb/aspnet/core/tutorials/signalr?tabs=visual-studio&view=aspnetcore-5.0)|
+|Documentation|ASP.NET|SignalR Examples|SignalR Integration|[Cheers Mate](https://github.com/aspnet/SignalR-samples)|
 |Documentation|Google|OpenWeatherMap Integration|Weather overlay, GoogleMap API|[Cheers Mate](https://github.com/google/maps-for-work-samples/blob/master/samples/maps/OpenWeatherMapLayer/OpenWeatherMapLayer.pdf)|
+|Video|Asiel Alvarez|Chat application using Signal R, .Net5 & React|SignalR Integration|[Cheers Mate](https://www.youtube.com/watch?v=nEQvA5HfEDE)|
 |Video|Leigh Halliday|Google Maps in React|React, GoogleMap API|[Cheers Mate](https://www.youtube.com/watch?v=Pf7g32CwX_s)|
-|Video|Brad Traversy|Google Maps in React|React, GoogleMap API|[Cheers Mate](https://www.youtube.com/watch?v=ontX4zfVqK8)|
-
+|Video|Brad Traversy|Google Maps in React|React, GoogleMap API, NASA API|[Cheers Mate](https://www.youtube.com/watch?v=ontX4zfVqK8)|
