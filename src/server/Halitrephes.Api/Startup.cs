@@ -1,3 +1,4 @@
+using Halitrephes.Api.Hubs;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -21,6 +22,8 @@ namespace Halitrephes.Api
         {
 
             services.AddControllers();
+            services.AddSignalR();
+
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Halitrephes.Api", Version = "v1" });
@@ -46,6 +49,7 @@ namespace Halitrephes.Api
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
+                endpoints.MapHub<DataPointHub>("/datapointHub");
             });
         }
     }
